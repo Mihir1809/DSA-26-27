@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Mihir1809/DSA-26-27/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/Mihir1809/DSA-26-27/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Mihir1809/DSA-26-27/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Mihir1809/DSA-26-27/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/Mihir1809/DSA-26-27/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Mihir1809/DSA-26-27/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -36,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Mihir1809/DSA-26-27/tree/master/0190-reverse-bits) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Mihir1809/DSA-26-27/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
