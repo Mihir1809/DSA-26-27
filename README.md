@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Mihir1809/DSA-26-27/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Mihir1809/DSA-26-27/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/Mihir1809/DSA-26-27/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Mihir1809/DSA-26-27/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Mihir1809/DSA-26-27/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
