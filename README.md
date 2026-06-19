@@ -47,9 +47,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Mihir1809/DSA-26-27/tree/master/0189-rotate-array) |
+| [1768-merge-strings-alternately](https://github.com/Mihir1809/DSA-26-27/tree/master/1768-merge-strings-alternately) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Mihir1809/DSA-26-27/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Mihir1809/DSA-26-27/tree/master/1732-find-the-highest-altitude) |
+## String
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/Mihir1809/DSA-26-27/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
