@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Mihir1809/DSA-26-27/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Mihir1809/DSA-26-27/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Mihir1809/DSA-26-27/tree/master/0268-missing-number) |
+| [1480-running-sum-of-1d-array](https://github.com/Mihir1809/DSA-26-27/tree/master/1480-running-sum-of-1d-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Mihir1809/DSA-26-27/tree/master/0189-rotate-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Mihir1809/DSA-26-27/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
