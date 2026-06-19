@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Mihir1809/DSA-26-27/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Mihir1809/DSA-26-27/tree/master/0268-missing-number) |
 | [1480-running-sum-of-1d-array](https://github.com/Mihir1809/DSA-26-27/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/Mihir1809/DSA-26-27/tree/master/1732-find-the-highest-altitude) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -50,4 +51,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Mihir1809/DSA-26-27/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/Mihir1809/DSA-26-27/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
