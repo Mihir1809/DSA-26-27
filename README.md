@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Mihir1809/DSA-26-27/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Mihir1809/DSA-26-27/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/Mihir1809/DSA-26-27/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Mihir1809/DSA-26-27/tree/master/0268-missing-number) |
 | [3950-exactly-one-consecutive-set-bits-pair](https://github.com/Mihir1809/DSA-26-27/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
 ## Math
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Mihir1809/DSA-26-27/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Mihir1809/DSA-26-27/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/Mihir1809/DSA-26-27/tree/master/0191-number-of-1-bits) |
 ## Two Pointers
 |  |
 | ------- |
