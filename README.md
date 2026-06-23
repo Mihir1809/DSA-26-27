@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Mihir1809/DSA-26-27/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Mihir1809/DSA-26-27/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Mihir1809/DSA-26-27/tree/master/0412-fizz-buzz) |
+| [0509-fibonacci-number](https://github.com/Mihir1809/DSA-26-27/tree/master/0509-fibonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Mihir1809/DSA-26-27/tree/master/1344-angle-between-hands-of-a-clock) |
 ## Binary Search
 |  |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/Mihir1809/DSA-26-27/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mihir1809/DSA-26-27/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/Mihir1809/DSA-26-27/tree/master/0509-fibonacci-number) |
 ## Counting
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Mihir1809/DSA-26-27/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Mihir1809/DSA-26-27/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Mihir1809/DSA-26-27/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/Mihir1809/DSA-26-27/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -162,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mihir1809/DSA-26-27/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Mihir1809/DSA-26-27/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
