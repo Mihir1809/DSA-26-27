@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Mihir1809/DSA-26-27/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Mihir1809/DSA-26-27/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Mihir1809/DSA-26-27/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Mihir1809/DSA-26-27/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Mihir1809/DSA-26-27/tree/master/0268-missing-number) |
 | [3950-exactly-one-consecutive-set-bits-pair](https://github.com/Mihir1809/DSA-26-27/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
 ## Math
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Mihir1809/DSA-26-27/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Mihir1809/DSA-26-27/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Mihir1809/DSA-26-27/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Mihir1809/DSA-26-27/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Mihir1809/DSA-26-27/tree/master/0268-missing-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Mihir1809/DSA-26-27/tree/master/1344-angle-between-hands-of-a-clock) |
 ## Binary Search
@@ -130,4 +132,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Mihir1809/DSA-26-27/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Mihir1809/DSA-26-27/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
