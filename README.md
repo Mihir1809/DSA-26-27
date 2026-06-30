@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Mihir1809/DSA-26-27/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mihir1809/DSA-26-27/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Mihir1809/DSA-26-27/tree/master/0268-missing-number) |
+| [1189-maximum-number-of-balloons](https://github.com/Mihir1809/DSA-26-27/tree/master/1189-maximum-number-of-balloons) |
 ## Sorting
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Mihir1809/DSA-26-27/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Mihir1809/DSA-26-27/tree/master/0412-fizz-buzz) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mihir1809/DSA-26-27/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/Mihir1809/DSA-26-27/tree/master/1189-maximum-number-of-balloons) |
 | [1768-merge-strings-alternately](https://github.com/Mihir1809/DSA-26-27/tree/master/1768-merge-strings-alternately) |
 ## Stack
 |  |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Mihir1809/DSA-26-27/tree/master/0169-majority-element) |
+| [1189-maximum-number-of-balloons](https://github.com/Mihir1809/DSA-26-27/tree/master/1189-maximum-number-of-balloons) |
 ## Linked List
 |  |
 | ------- |
